@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat';
+}
+
+.header{
+    background-image: url(/images/E543.jpg);
+    background-repeat: repeat;
+    min-height: 60vh;
+}
+h1{
+    background-color: white;
+    border-radius: 2rem;
+}
+figcaption{ 
+    background-color: #c09eac;
+    color: #fff;
+}
